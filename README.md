@@ -1,4 +1,4 @@
-<h3 align="center">Demo site: <a href="https://alquran-ku.web.app">https://alquran-ku.web.app</a></h3>
+<h3 align="center">Demo site: <a href="https://al-quran-ku.web.app">https://al-quran-ku.web.app</a></h3>
 <br><br>
 
 <p align="center">
